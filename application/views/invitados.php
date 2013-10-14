@@ -6,6 +6,7 @@
 	<link rel="stylesheet" href="<?php echo base_url()?>css/bootstrap-responsive.css">
 	<link rel="stylesheet" href="<?php echo base_url()?>css/estilos.css">
 	<title>Estas invitado</title>
+
 	<meta name="viewport" content="width=device-width">
 </head>
 <body>
