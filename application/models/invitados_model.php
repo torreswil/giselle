@@ -14,7 +14,7 @@ class invitados_model extends CI_Model{
 	function devolver_usuario($quien){
 		$query=$this->db->where('id',$quien);
 		$query = $this->db->get('invitados');
-		return $query->row()
+		return $query->row();
 	}
 }
 ?>
